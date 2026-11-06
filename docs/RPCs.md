@@ -1268,6 +1268,7 @@ This list all RPC calls that are not related to any object.
     3: int, "modifiers" (0 = mixed, 1 = unarmed, 2 = magic, 3 = ranged, 4 = melee, 5 = none)
     4: int, "attackers"
     5: bool, "cheats used"
+```
 
 ```yaml
 # Destroys an object.
